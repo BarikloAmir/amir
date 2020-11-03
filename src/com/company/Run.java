@@ -4,6 +4,7 @@ public class Run{
 
     public static void main(String[] args) {
         Student std1 = new Student("Ehsan", "Edalat", "9031066");
+        Student std0 = new Student("Ehsan0", "Edalat0", "9031066");
         Student std2 = new Student("Seyed", "Ahmadpanah", "9031806");
         Student std3 = new Student("Ahmad", "Asadi", "9031054");
         //std1.print();
